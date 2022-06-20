@@ -1,6 +1,6 @@
 ## Advent Of Code 2020 with C#
 
-*Work is currently in progress and may be rewritten later with another language.*
+__*Work is currently in progress and may be rewritten later in another language.*__
 
 This repository contains my solutions for [Advent of code 2020 🎄](https://adventofcode.com/2020). All tasks are solved with **C#** and have unit tests to validate them. 
 
