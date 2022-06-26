@@ -20,4 +20,4 @@ You can find input data files and input parsers code in [adventofcode-2020.Tests
 
     `dotnet test --filter "DisplayName~Task1_"`
 
-    *Task1_* should be replaced with the task number you want to run (*to get the task number click on the solution link in the table above*).
+    *Task1_* should be replaced with the task number you want to run.
